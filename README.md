@@ -1,0 +1,2 @@
+# MacSocketService
+简单的搭建一个socket的mac应用，使用终端与客户端进行连接通信
